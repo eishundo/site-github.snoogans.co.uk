@@ -17,6 +17,7 @@ Disallow: /files
 Disallow: /categories
 Disallow: /notes
 Disallow: /search
+Disallow: /share
 Disallow: /tags
 
 Sitemap: https://www.snoogans.co.uk/sitemap.xml
